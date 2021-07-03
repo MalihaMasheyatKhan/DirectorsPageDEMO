@@ -1,0 +1,86 @@
+
+
+.directors{
+  background: url(../images/background.png) no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding: 80px 0;
+  background-attachment: fixed;
+}
+
+.directors .card{
+  margin-top: 5%;
+  background: transparent;
+  /* border: 1px solid #fff; */
+}
+
+.directors .card-img{
+  width: 50%;
+  margin: 30px auto 15px;
+}
+
+.directors .card-body{
+  text-align: center;
+}
+
+.directors .card-title{
+  font-size: 22px;
+  margin-bottom: 20px;
+}
+
+.directors .card h4{
+  color: #eee;
+}
+/* .directors .card */
+h6{
+  color: #ff6d6d;
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 40px;
+}
+
+.directors .card-body p{
+  color: #b3b3b5;
+}
+
+.directors .hero-text p{
+    color: #b3b3b5;
+
+}
+.directors .hero-text h2{
+  color: #eee;
+}
+
+.directors .hero-text{
+  margin-bottom: 2%;
+}
+
+.directors .card-text{
+  height: 15rem;
+}
+
+.directors .card:hover{
+  border: 1px solid #fff;
+  /* transition-duration: 2s; */
+}
+
+/* Modal CSS */
+
+.modal-img{
+  width: 30%;
+  margin-bottom: 2%;
+}
+
+.center{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.modal-body{
+  text-align: center;
+}
+
+.modal-body p, td{
+  color: #6D6F70;
+}
+
